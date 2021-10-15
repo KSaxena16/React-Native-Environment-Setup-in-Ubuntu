@@ -19,6 +19,7 @@ Step3: Once It is installed, Verify it by checking the installed version using t
 
 ## Java Development Kit
 
+React Native require atleat version 8 of JDK. Install the JDK in the following manner:
 Step1: Open the terminal `(Ctrl+Alt+T)` and update the package repository to ensure you download the latest version using the following command: `sudo apt update`
 
 Step2: Install the Java Development Kit by using following command: `sudo apt install openjdk-8-jdk`
@@ -26,6 +27,8 @@ Step2: Install the Java Development Kit by using following command: `sudo apt in
 Step3: Confirm the installation by typing `Y(yes)` and press `Enter`
 
 Step4: Verify the version of Java with the command: `java -version`
+
+##### Or You can download and install [OpenJDK](https://openjdk.java.net/) from [AdoptOpenJDK](https://adoptopenjdk.net/) .
 
 #### How to set Java_Home Environment Variables:
 

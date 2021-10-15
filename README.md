@@ -9,6 +9,8 @@ You will need Node, React Native Command Line Interface, a JDK, Android studio a
 
 ## Node
 
-Step1: Open your terminal or press Ctrl+Alt+T.
-Step2: Type the following Command: sudo apt install node.js
+Step1: Open your terminal or press `Ctrl+Alt+T`
+
+Step2: Type the following Command: `sudo apt install node.js`
+
 Step3: Once It is installed, Verify it by checking the installed version using the following command: `node -v` or `node -version`

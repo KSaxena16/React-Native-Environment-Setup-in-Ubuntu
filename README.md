@@ -31,4 +31,4 @@ Step4: Verify the version of Java with the command: `java -version`
 
 Step1: To setup the Java_Home variable, you first need to find where java is installed. Use the following command to locate it: `sudo update-alternatives --config java`
 
-Step2: Once you see all the paths, Copy one of your preferred Java Version and Open `/etc/environment/' file. At the end of the file add a line which specifies the location of JAVA_HOME in the following manner: `JAVA_HOME="/your/installation/path/"`
+Step2: Once you see all the paths, Copy one of your preferred Java Version and Open `/etc/environment/` file. At the end of the file add a line which specifies the location of JAVA_HOME in the following manner: `JAVA_HOME="/your/installation/path/"`

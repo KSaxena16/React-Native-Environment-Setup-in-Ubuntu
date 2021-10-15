@@ -40,4 +40,6 @@ Step2: Once you see all the paths, Copy one of your preferred Java Version and O
 
 If you're new to Android Development then follow the following step carefully:
 
-** Install Android Studio**
+##### Install Android Studio 
+
+Download and Install `[AndroidStudio](https://developer.android.com/studio)`

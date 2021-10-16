@@ -170,6 +170,7 @@ Open a new terminal inside your React Native project folder. Run the following:
 Now that you have successfully run the app, let's modify it.
 
 => Open `App.js` in your text editor of choice and edit some lines.
+
 => Press the `R` key twice or select Reload from the Developer Menu (Ctrl + M) to see your changes!
 
 **That's it!**

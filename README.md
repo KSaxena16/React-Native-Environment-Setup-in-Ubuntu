@@ -11,7 +11,7 @@ You will need Node, React Native Command Line Interface, a JDK, Android studio a
 
 Step1: Open your terminal or press `Ctrl+Alt+T`
 
-Step2: Type the following Command: `sudo apt install node.js`
+Step2: Type the following Command: `sudo apt-get install node.js`
 
 Step3: Once It is installed, Verify it by checking the installed version using the following command: `node -v` or `node -version`
 
@@ -34,7 +34,11 @@ Step4: Verify the version of Java with the command: `java -version`
 
 Step1: To setup the Java_Home variable, you first need to find where java is installed. Use the following command to locate it: `sudo update-alternatives --config java`
 
-Step2: Once you see all the paths, Copy one of your preferred Java Version and Open `/etc/environment/` file. At the end of the file add a line which specifies the location of JAVA_HOME in the following manner: `JAVA_HOME="/your/installation/path/"`
+Step3: Once you see all the paths, Copy one of your preferred Java Version and Open `/etc/environment/` file. At the end of the file add a line which specifies the location of JAVA_HOME in the following manner: `JAVA_HOME="/your/installation/path/"`
+
+***Note: List hidden files using following command: `ls-a`***
+
+***Note: Open `./etc/environment/` file using following command: `sudo gedit /etc/environment/`***
 
 ## Android Development Environment
 
